@@ -1,0 +1,10 @@
+.idea
+.idea/
+.idea/*.*
+*.xml
+~$*.*
+
+.git
+.git/
+
+node_modules/
